@@ -1,1 +1,1 @@
-# Anomaly-Detection
+# Spatial Anomaly Detection
