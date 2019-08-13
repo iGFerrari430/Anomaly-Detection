@@ -1,2 +1,2 @@
 # Spatial Anomaly Detection
-#### updated_PEK and TrimGrid has more detailed comments 
+An Anomaly Detection Framework used to provide data pre-processing for machine learning models an projects.
